@@ -29,4 +29,4 @@ You can use a git clone or simply download the zip to your local machine.</li>
 
 <h1><span style="color: #da934b; font-size: 25pt;">Final View</span></h1>
 
-<p><img src="https://www.jotform.com/uploads/kumathbharti/form_files/weather.60bdfd878155b5.79294589.png" alt="" /></p>
+<p><img src="weather.png" alt="" /></p>
