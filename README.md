@@ -1,2 +1,2 @@
 # weather-app
-git init
+<img src ="logo.png">
